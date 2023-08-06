@@ -6,9 +6,5 @@
             "time":"2023.8.7 00:00:00",
             "description":"第一次更新，测试更新机制"
         }
-    ],
-    "Del_nub":1,
-    "Delete":[
-        ".minecraft|mods|FluxNetworks-1.18.2-7.0.8.12.jar"
     ]
 }
