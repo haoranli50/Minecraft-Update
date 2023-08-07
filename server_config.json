@@ -1,10 +1,10 @@
 {
     "Config":[
         {
-            "version":"1.1",
+            "version":"1.2",
             "link":"https://github.com/haoranli50/Minecraft-Update/releases/download/update/update.zip",
-            "time":"2023.8.7 00:00:00",
-            "description":"第一次更新，测试更新机制"
+            "time":"2023.8.8 00:00:00",
+            "description":"补充了一些mod：神化、刷怪塔实用设备、[RS]精致存储、精妙背包、精妙核心、储物抽屉"
         }
     ]
 }
