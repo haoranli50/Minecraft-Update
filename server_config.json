@@ -1,10 +1,10 @@
 {
     "Config":[
         {
-            "version":"1.4",
+            "version":"1.5",
             "link":"https://github.com/haoranli50/Minecraft-Update/releases/download/update/update.zip",
-            "time":"2023.8.20 21:00:00",
-            "description":"1. 修正启动程序在路径存在空格时的错误 2. 添加抬头显示"
+            "time":"2023.8.29 21:00:00",
+            "description":"1. 添加垃圾桶mod，便于废弃物处理"
         }
     ]
 }
