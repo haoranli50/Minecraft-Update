@@ -1,10 +1,10 @@
 {
     "Config":[
         {
-            "version":"1.5",
+            "version":"1.6",
             "link":"https://github.com/haoranli50/Minecraft-Update/releases/download/update/update.zip",
             "time":"2023.8.29 21:00:00",
-            "description":"1. 添加垃圾桶mod，便于废弃物处理"
+            "description":"1. 添加自定义矿脉"
         }
     ]
 }
